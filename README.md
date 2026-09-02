@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-<!--
-**JaXcoderer/JaXcoderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👋 Hi there, I'm **JaXcoderer/JaXcoderer** ###
 
+I'm a developer and vibe coder exploring advanced AI architectures and modern software engineering methodologies. I spend my time building out automated workflows, testing AI-assisted tools like Cursor and Claude, and pushing the limits of frontier models.
+
+- 🔭 Currently working on: Evaluating AI model trajectories and building automated API integrations.
+- 🌱 Currently studying: CompTIA Security+ (SY0-701) and complex machine learning architectures (CNNs, RNNs, Transformers).
+- 🛠️ Tech Stack: Python, OpenGL, Git, API development.
+- 🎨 Outside of code: You'll find me generating custom AI visual media or exploring 3D modeling workflows in Blender.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
